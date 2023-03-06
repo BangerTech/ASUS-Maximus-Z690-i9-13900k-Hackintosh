@@ -49,7 +49,8 @@ Hackintosh (openCore) Computer with both Windows and macOS on two seperate disks
 5. Insert new Serial Numbers to PlattformInfo/Generic (MLB,SystemSerialNumber,SystemUUID) and save
 6. Boot from USB Installer and install macOS
 7. After installation in macOS copy EFI Partition from USB Installer to EFI Partition of the System Drive
-8. Have fun
+8. Shutdown and remove USB Installer and boot from System Drive
+9. Have fun
 
 
 
