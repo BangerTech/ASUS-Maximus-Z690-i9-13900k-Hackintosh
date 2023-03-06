@@ -1,4 +1,5 @@
-![AboutmyMAC](https://user-images.githubusercontent.com/73241309/223199674-c4a3472e-72f6-4550-92d6-7dbc0687bea8.PNG)
+
+![AboutmyMAC](https://user-images.githubusercontent.com/73241309/223200474-f027d2f8-a6a7-4ed1-a5a4-4fd2f9893b48.PNG)
 
 
 # 1. Table of content
