@@ -14,8 +14,11 @@ Hackintosh Computer with both Windows and macOS on 2 seperated Harddrives.
 # 3. Hardware
 - ASUS ROG MAXIMUS Z690 HERO
 - Intel i9 13900k
-- 2 x 32GB DDR5-5600 Kingsont Fury
+- 2 x 32GB DDR5-5600 Kingston Fury
 - 2 x NVMe Samsung EVO970 2TB
+- Sapphire Nitro+ RX 6900 XT
+- Artic Liquid Freezer 280
+- Fenvi T919 WiFI & BLE
 
 # 4. How to use it?
 
