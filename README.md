@@ -42,10 +42,14 @@ Hackintosh (openCore) Computer with both Windows and macOS on two seperate disks
 
 # 5. How to use it?
 
-1. 
-2. 
-3. 
-4. 
+1. Create an MacOS Ventura 13.2.1 USB-Installer Stick 
+2. Mount the EFI-partition of the "Install macOS Ventura" disk (use Hackintool)
+3. Delete all folders and copy my entira EFI folder to the root of the EFI-partition
+4. Generate new Serial Numbers https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/
+5. Insert new Serial Numbers to PlattformInfo/Generic (MLB,SystemSerialNumber,SystemUUID) and save
+6. Boot from USB Installer and install macOS
+7. After installation in macOS copy EFI Partition from USB Installer to EFI Partition of the System Drive
+8. Have fun
 
 
 
