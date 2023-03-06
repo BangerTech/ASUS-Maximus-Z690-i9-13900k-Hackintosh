@@ -25,21 +25,17 @@ Hackintosh Computer with both Windows and macOS on 2 seperated Harddrives.
 # 4. What is working?
 
 # Working
-- [x] **Tested with macOS Catalina 10.15.6 and macOS Big Sur**
-- [x] **Wifi and Bluetooth** (via BCM94360CD using a MQUPIN fenvi T919 Wireless Card). Replacing the onboard Intel WiFi-card doesn't work. See details below.
+- [x] **Tested with macOS Ventura 13.2.1
+- [x] **Wifi and Bluetooth** (via BCM94360CD using a MQUPIN fenvi T919 Wireless Card)
 - [x] **Audio**: Realtek ALC1220-VB (AppleALC.kext, layout-id=7,FakeID.kext, FakePCIID_Intel_HDMI_Audio.kext)
 - [x] **USB**, all ports.
-- [x] **Thunderbolt 3** including Hot-plug
-- [x] **1Gbit Ethernet (Intel I219-V)**
+- [x] **Thunderbolt 4** including Hot-plug
 - [x] **2.5Gbit Ethernet (Intel I225-V)**
-- [x] **With iMacPro1,1: Amazon Prime Video and Netflix in Safari. AppleTV.**
-- [x] **With iMac20,2: SideCar and AppleTV, but no Amazon Prime Video and Netflix in Safari.** But Amazon Prime and Netflix works with other browsers like 
+- [x] **With iMacPro1,1: Amazon Prime Video and Netflix in Safari. AppleTV.** 
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
 - [x] **Restart**
 
-# Not working so far
-- Netflix and Prime in Safari with iMac20,x based configs.
 
 # 5. How to use it?
 
