@@ -13,7 +13,7 @@
 - [8. Sponsor me!](#8-how-to-sponsor)
 
 # 2. What is this for?
-Hackintosh Computer with both Windows and macOS on 2 seperated Harddrives.
+Hackintosh (openCore) Computer with both Windows and macOS on two seperate disks.
 
 
 # 3. Hardware
