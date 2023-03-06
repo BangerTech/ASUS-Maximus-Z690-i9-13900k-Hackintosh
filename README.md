@@ -4,7 +4,6 @@
 - [3. Hardware](#3-hardware)
 - [4. What is working?](#4-what-is-working)
 - [5. How to use it?](#5-how-to-use-it)
-
 - [6. Support / Feedback](#6-support--feedback)
 - [7. How to contribute?](#7-how-to-contribute)
 - [8. Sponsor me!](#8-how-to-sponsor)
