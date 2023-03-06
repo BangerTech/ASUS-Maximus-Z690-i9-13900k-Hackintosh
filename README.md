@@ -1,18 +1,21 @@
 # 1. Table of content
 - [1. Table of content](#1-table-of-content)
-- [2. What is this Plugin?](#2-what-is-this-plugin)
-- [3. Setup](#3-setup)
+- [2. What is this for?](#2-what-is-this-for)
+- [3. Hardware](#3-hardware)
 - [4. How to use it?](#5-how-to-use-it)
 - [5. Support / Feedback](#4-support--feedback)
 - [6. How to contribute?](#6-how-to-contribute)
 - [7. Sponsor me!](#7-how-to-sponsor)
 
-# 2. What is this Plugin?
-....
+# 2. What is this for?
+Hackintosh Computer with both Windows and macOS on 2 seperated Harddrives.
 
 
-# 3. Setup
-..
+# 3. Hardware
+- ASUS ROG MAXIMUS Z690 HERO
+- Intel i9 13900k
+- 2 x 32GB DDR5-5600 Kingsont Fury
+- 2 x NVMe Samsung EVO970 2TB
 
 # 4. How to use it?
 
